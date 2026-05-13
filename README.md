@@ -1,4 +1,5 @@
-# Robotics-Course
+## Fundation of Robotics
+Robin DIDIER & Lubin CAILLOL
 
 Content :
 - 4 python files of the simulation (launch `main.py` with all the files in the same folder).
